@@ -1,0 +1,17 @@
+{
+  "name": "sistemasCambioDeBase",
+  "version": "1.0.0",
+  "description": "Cambio de bases",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kefala/sistemasCambioDeBase"
+  },
+  "author": "Kefala",
+  "bugs": {
+    "url": "https://github.com/kefala/sistemasCambioDeBase/issues"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}

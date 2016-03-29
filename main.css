@@ -1,0 +1,46 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.main-box {
+	position: relative;
+	max-width: 500px;
+	width: 100%;
+	margin: auto;
+}
+.main-box .title{
+	text-align: center;
+	font-size: 25px;
+	font-weight: 300;
+	margin: 10px 0;
+	margin-top: 50px;
+	padding: 0;
+}
+.main-box .sub-title{
+	font-size: 25px;
+	font-weight: 300;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	margin: 10px 0;
+}
+.main-box #campoUno, select {
+	width: 100%;
+	border: none;
+	border-bottom: 1px solid #f90;
+	background-color: #fff;
+	box-shadow: 3px 5px 5px 1px #fff9f0;
+	height: 35px;
+	font-size: 20px;
+	line-height: 35px;
+	margin-bottom: 20px
+}
+
+.main-box #campoUno:focus, select:focus {
+	outline: none;
+}
+
+.main-box #resultado{
+	text-align: center;
+	font-size: 35px;
+}
